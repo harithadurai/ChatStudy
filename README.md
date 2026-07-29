@@ -77,9 +77,16 @@ Program:
 
 <img width="667" height="527" alt="WhatsApp Image 2026-07-29 at 9 21 05 AM" src="https://github.com/user-attachments/assets/e07f3d67-feb3-40c7-a773-656c7e122c14" />
 
+
+
 <img width="741" height="627" alt="WhatsApp Image 2026-07-29 at 9 21 38 AM" src="https://github.com/user-attachments/assets/8516d8b5-1c02-4e09-9b20-14532bba3331" />
 
+Output:
+
+
 <img width="347" height="66" alt="WhatsApp Image 2026-07-29 at 9 24 39 AM" src="https://github.com/user-attachments/assets/72593002-8ddb-429a-b874-108fd6e860e4" />
+
+
 
 <img width="412" height="82" alt="WhatsApp Image 2026-07-29 at 9 23 52 AM" src="https://github.com/user-attachments/assets/0393b329-5c91-4d16-b4a6-cacc96f699bf" />
 
